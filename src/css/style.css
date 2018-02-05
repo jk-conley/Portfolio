@@ -67,8 +67,7 @@
   #portfolio-section .card img {
     width: 100%;
     height: 8.625rem;
-    transition: all 0.2s;
-    backface-visibility: hidden; }
+    transition: all 0.2s; }
   #portfolio-section .card:hover {
     background-color: #02b3e4;
     color: #fff;
