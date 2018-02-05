@@ -1,3 +1,8 @@
+/*
+This comes from Brad Traversy's Github Repo
+Github Repo: https: //github.com/bradtraversy/bs4starter
+*/
+
 const   gulp = require('gulp'),
         browserSync = require('browser-sync').create(),
         sass = require('gulp-sass');
