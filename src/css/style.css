@@ -72,3 +72,6 @@
     background-color: #02b3e4;
     color: #fff;
     transform: scale(0.98); }
+
+.footer-section {
+  border-top: 3px solid #02b3e4; }
