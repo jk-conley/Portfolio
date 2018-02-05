@@ -45,7 +45,7 @@ $secondary-color: #7d97ad;
     SECTION STYLES
 ====================*/
 
-#header-section {
+.header-section {
     background-color: $primary-color-dark;
 
     h1,
@@ -59,7 +59,7 @@ $secondary-color: #7d97ad;
     }
 }
 
-#about-section {
+.about-section {
     color: $primary-color-dark;
 
     .profile-pic {
@@ -85,7 +85,7 @@ $secondary-color: #7d97ad;
 
 }
 
-#portfolio-section {
+.portfolio-section {
     background-color: $primary-color-dark;
     color: $primary-color-dark;
 
