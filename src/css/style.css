@@ -11,21 +11,21 @@
 ====================*/
 .heading-secondary {
   font-size: 2.5rem;
-  font-weight: 300;
+  font-weight: 200;
   background-image: linear-gradient(to right bottom, #02b3e4, #2d3c49);
   color: transparent;
   -webkit-background-clip: text;
-  letter-spacing: 0.2rem;
+  letter-spacing: 0.25rem;
   transition: all 0.2s;
   text-transform: uppercase; }
 
 .heading-secondary:hover {
-  transform: skewY(2deg) skewX(15deg) scale(1.1);
-  text-shadow: 0.5rem 1rem 2rem rgba(0, 0, 0, 0.2); }
+  transform: skewY(2deg) skewX(-10deg) scale(1.1);
+  text-shadow: 0.5rem 1rem 2rem rgba(0, 0, 0, 0.4); }
 
 .heading-tertiary {
   font-size: 1.5rem;
-  font-weight: 400;
+  font-weight: 300;
   color: #7d97ad;
   text-transform: uppercase; }
 
